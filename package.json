@@ -1,0 +1,15 @@
+{
+  "name": "browserifed-app",
+  "version": "0.0.0",
+  "main": "server.js",
+  "description": "simple app",
+  "dependencies": {
+    "express": "^4.8.0",
+    "grunt": "~0.4.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "underscore": "^1.6.0"
+  }
+}
